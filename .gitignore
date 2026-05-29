@@ -1,0 +1,33 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Allure results (generated on run)
+reports/allure-results/
+reports/allure-report/
+
+# Screenshots (generated on failure)
+screenshots/
+
+# Logs
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Environment
+.env
+
+# OS
+.DS_Store
+Thumbs.db
